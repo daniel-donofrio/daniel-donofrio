@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @daniel-donofrio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Daniel D'Onofrio
+## Full Stack Developer
 
-<!---
-daniel-donofrio/daniel-donofrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Hello! My name is Daniel D'Onofrio and I'm student of Web Development.
+
+My main technical knowledge are:
+- HTML
+- CSS
+- Bootstrap
+- Javascript
+- React.js
+- Node.js
+- Python
+- PHP
+- Laravel
