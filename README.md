@@ -5,14 +5,14 @@
 Hello! My name is Daniel D'Onofrio and I'm student of Web Development.
 
 My main technical knowledge are:
-- C++
 - C#
+- C++
+- Python
 - Javascript
+- Node.js
+- React.js
+- React Native
 - HTML
 - CSS
 - Bootstrap
-- React.js
-- Node.js
-- Python
 - PHP
-- Laravel
