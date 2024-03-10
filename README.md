@@ -1,5 +1,4 @@
 # Daniel D'Onofrio
-## Full Stack Developer
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Software+Developer+student;Back-End+developer+oriented,;Active+Learner/Researcher,;I+love+to+learn+new+stuffs+&hearts;++;"></a>
