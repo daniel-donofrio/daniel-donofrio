@@ -8,17 +8,9 @@
 Hello! My name is Daniel D'Onofrio and I'm student of Web Development.
 
 My main technical knowledge are:
-- C#
-- C++
-- Python
-- Javascript
-- Node.js
-- React.js
-- React Native
-- HTML
-- CSS
-- Bootstrap
-- PHP
+
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,nodejs,react,html,css,bootstrap,php)](https://skillicons.dev)
+
 
   
 ### Badges
