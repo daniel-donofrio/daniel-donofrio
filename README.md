@@ -9,7 +9,7 @@ Throughout my journey, I have honed my skills in various programming languages i
 
 My main technical knowledge are:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,nodejs,react,html,css,bootstrap,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,nodejs,react,html,css,bootstrap)](https://skillicons.dev)
 
 
   
