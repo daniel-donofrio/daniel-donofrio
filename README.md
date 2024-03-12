@@ -7,7 +7,7 @@ My name is Daniel D'Onofrio, I'm studying Software Development at the National T
 
 Throughout my journey, I have honed my skills in various programming languages including C#, C++, Python, Node.js, React, HTML, and CSS. Moreover, I am committed to ongoing learning, constantly seeking to expand my knowledge by exploring new technologies and methodologies.
 
-My main technical knowledge are:
+<b>My main technical knowledge are:</b>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,nodejs,react,html,css,bootstrap)](https://skillicons.dev)
 
