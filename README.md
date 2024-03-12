@@ -4,11 +4,14 @@
 <h3>About me</h3>
 I'm studying Software Development at the National Technological University of Argentina. I'm passionate about leveraging technology to create innovative solutions. Complementing my academic pursuits, I completed a Diploma in Full Stack Web Development at the Academia Numen, equipping me with a comprehensive understanding of both front-end and back-end technologies.
 
-Throughout my journey, I have honed my skills in various programming languages including C#, C++, Python, Node.js, React, HTML, and CSS. Moreover, I am committed to ongoing learning, constantly seeking to expand my knowledge by exploring new technologies and methodologies.
-
 <h3>My main technical knowledge are:</h3>
+Throughout my journey, I have honed my skills in various programming languages including C#, C++, Python, Node.js, React, HTML, and CSS. Moreover, I am committed to ongoing learning, constantly seeking to expand my knowledge by exploring new technologies and methodologies.
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cs,cpp,py,js,nodejs,react,html,css,bootstrap" align="center"> 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,nodejs,react,html,css,bootstrap)](https://skillicons.dev)
+</div>
+
+
 
 
   
