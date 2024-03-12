@@ -1,9 +1,6 @@
 <img src="https://github.com/daniel-donofrio/daniel-donofrio/assets/119988563/7680e575-a1aa-40a0-96d2-08cec3b77749" style="height: 100% , width:100%">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Daniel D'Onofrio</h1>
-<div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=50&lines=I'm+a+Software+Development+student;Active+Learner+and+Researcher;I+love+to+learn+new+stuffs+&hearts;++;"></a>
-</div>
 <h3>About me</h3>
 My name is Daniel D'Onofrio, I'm studying Software Development at the National Technological University of Argentina. I am passionate about leveraging technology to create innovative solutions. Complementing my academic pursuits, I completed a Diploma in Full Stack Web Development at the Academia Numen, equipping me with a comprehensive understanding of both front-end and back-end technologies.
 
