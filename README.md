@@ -1,4 +1,6 @@
-<img src="https://github.com/daniel-donofrio/daniel-donofrio/assets/119988563/7680e575-a1aa-40a0-96d2-08cec3b77749" style="height: 100% , width:100%">
+<div align="center">
+<img src="https://github.com/daniel-donofrio/daniel-donofrio/assets/119988563/174ffd7d-f907-419a-821d-8d1d78f8a6b5">
+</div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Daniel D'Onofrio</h1>
 
