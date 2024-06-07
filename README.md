@@ -10,7 +10,7 @@ I'm studying Software Development at the National Technological University of Ar
 <h3>My main technical knowledge</h3>
 Throughout my journey, I have honed my skills in various programming languages including C#, C++, Python, Node.js, React, HTML, and CSS. Moreover, I am committed to ongoing learning, constantly seeking to expand my knowledge by exploring new technologies and methodologies.
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,py,js,nodejs,react,html,css,bootstrap" align="center"> 
+<img src="https://skillicons.dev/icons?i=cs,cpp,py,java,js,nodejs,react,html,css,bootstrap" align="center"> 
 </div>
 
 <h3>My GitHub Stats</h3>
