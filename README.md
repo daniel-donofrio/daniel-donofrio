@@ -5,10 +5,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Daniel D'Onofrio</h1>
 
 <h3>About me</h3>
-I'm studying Software Development at the National Technological University of Argentina. I'm passionate about leveraging technology to create innovative solutions. Complementing my academic pursuits, I completed a Diploma in Full Stack Web Development at the Academia Numen, equipping me with a comprehensive understanding of both front-end and back-end technologies.
+Associate Degree in Programming from the National Technological University (UTN) and a Full Stack Web Development Diploma from Universidad Atlántida Argentina, with 2 years of experience in software development, web applications, and the maintenance of technological solutions tailored to different needs and contexts.
 
 <h3>My main technical knowledge</h3>
-Throughout my journey, I have honed my skills in various programming languages including C#, C++, Python, Node.js, React, HTML, and CSS. Moreover, I am committed to ongoing learning, constantly seeking to expand my knowledge by exploring new technologies and methodologies.
+Throughout my journey, I have honed my skills in various programming languages including Java, C#, C++, Python, Node.js, HTML, and CSS. Moreover, I am committed to ongoing learning, constantly seeking to expand my knowledge by exploring new technologies and methodologies.
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cs,java,cpp,py,php,nodejs,react,js,html,css" align="center"> 
 </div>
